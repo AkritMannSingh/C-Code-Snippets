@@ -10,9 +10,9 @@ This repository contains C programs designed to help students and developers und
 
 ### 📐 Mathematical Calculators
 
-### · `area_circle.c` - Calculates area of circles
-### · `area_rectangle.c` - Computes area of rectangles and squares
+#### · `area_circle.c` - Calculates area of circles
+#### · `area_rectangle.c` - Computes area of rectangles and squares
 
 💝 Special Program
 
-### · `input_passion.c` - Captures and displays your passion for programming
+#### · `input_passion.c` - Captures and displays your passion for programming
