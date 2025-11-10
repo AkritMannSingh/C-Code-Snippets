@@ -1,14 +1,11 @@
 #include <stdio.h>
 int main() {
-  int marks;
-  char name[30];
-  printf("Enter student's name:");
-  scanf("%s", name);
-  printf("Enter marks in Maths: ");
-  scanf("%d", &marks); 
+  int length, breadth;
+  printf("Enter the length of rectangle:\t");
+  scanf("%d", &length);
+  printf("Enter the breadth of rectangle:\n");
+  scanf("%d", &breadth);
+  printf("The Area of given rectangle is %d\n", length * breadth);
 
-  printf("Hello %s! You have scored %d in Maths!", name, marks);
-  printf("Hey! %s your passion is\n", name);
-  scanf("%s", name);
   return 0;
 }
