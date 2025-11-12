@@ -21,8 +21,8 @@ This repository contains C programs designed to help students and developers und
 
 #### `celsius.c`
 
-· 🌡️ Temperature Conversion - Converts Celsius to Fahrenheit
-· 🔢 Precision Calculation - Accurate floating-point operations
-· ✅ Input Validation - Handles invalid user inputs gracefully
-· 📊 Formula Implementation - Implements standard conversion formula
-· 🎯 User-Friendly Interface - Clean and intuitive user experience
+##### · 🌡️ Temperature Conversion - Converts Celsius to Fahrenheit
+##### · 🔢 Precision Calculation - Accurate floating-point operations
+##### · ✅ Input Validation - Handles invalid user inputs gracefully
+##### · 📊 Formula Implementation - Implements standard conversion formula
+##### · 🎯 User-Friendly Interface - Clean and intuitive user experience
