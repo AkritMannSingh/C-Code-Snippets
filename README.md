@@ -12,6 +12,7 @@ This repository contains C programs designed to help students and developers und
 
 #### · `area_circle.c` - Calculates area of circles
 #### · `area_rectangle.c` - Computes area of rectangles and squares
+#### · `area_perimeter.c` - Calculates area and perimeter of Parallelogram 
 
 💝 Special Program
 
