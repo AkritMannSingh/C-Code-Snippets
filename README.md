@@ -19,7 +19,7 @@ This repository contains C programs designed to help students and developers und
 
 #### · `divisibility_check.c` - It checks the number, divisible or not. 
 
-#### `celsius.c`
+#### `temp_calc.c`
 
 ##### · 🌡️ Temperature Conversion - Converts Celsius to Fahrenheit
 ##### · 🔢 Precision Calculation - Accurate floating-point operations
