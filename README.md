@@ -27,3 +27,9 @@ This repository contains C programs designed to help students and developers und
 ##### · ✅ Input Validation - Handles invalid user inputs gracefully
 ##### · 📊 Formula Implementation - Implements standard conversion formula
 ##### · 🎯 User-Friendly Interface - Clean and intuitive user experience
+
+#### `grade_declaration.c`
+
+##### · 📝 Marks Input - Accepts student marks as input
+##### · 🎓 Grade Calculation - Converts numerical marks to letter grades (A, B, C, D, F)
+##### · ✅ Pass/Fail Determination - Automatically determines pass or fail status
