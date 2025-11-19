@@ -48,3 +48,11 @@ This repository contains C programs designed to help students and developers und
 ##### · 📊 Income Analysis - Calculates tax based on income slabs
 ##### · 💰 Tax Slab Processing - Applies appropriate tax rates to different income segments
 ##### · 🧾 Detailed Breakdown - Shows tax calculation for each income slab separately
+
+#### `score_declaration`
+
+##### · 📝 Marks Comparison - Compares obtained marks with passing marks
+##### · ✅ Pass/Fail Decision - Clearly declares pass or fail status
+##### · 📊 Threshold Validation - Ensures marks meet minimum requirements
+##### · 🎯 Simple Interface - Easy-to-use input/output system
+##### · ⚡ Quick Results - Instant pass/fail determination
