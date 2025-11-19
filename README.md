@@ -56,3 +56,13 @@ This repository contains C programs designed to help students and developers und
 ##### · 📊 Threshold Validation - Ensures marks meet minimum requirements
 ##### · 🎯 Simple Interface - Easy-to-use input/output system
 ##### · ⚡ Quick Results - Instant pass/fail determination
+
+#### `year_verification.c`
+
+##### ·📅 Year Validation - Checks if input is a valid year
+##### · 🔍 Leap Year Rules - Implements complete leap year logic:
+ ###### · Divisible by 4 → Potential leap year
+ ###### · Divisible by 100 → Not leap year (unless...)
+ ###### · Divisible by 400 → Leap year
+##### · ✅ Clear Result - Definitely states "Leap Year" or "Not a Leap Year"
+##### · 📊 Additional Info - Provides reasoning for the decision
