@@ -66,3 +66,14 @@ This repository contains C programs designed to help students and developers und
  ###### · Divisible by 400 → Leap year
 ##### · ✅ Clear Result - Definitely states "Leap Year" or "Not a Leap Year"
 ##### · 📊 Additional Info - Provides reasoning for the decision
+
+#### `char_identification.c`
+
+##### · 🔤 Character Classification - Identifies if character is lowercase
+##### · 📊 Complete Analysis - Classifies all character types:
+ ###### · Lowercase letters (a-z)
+ ###### · Uppercase letters (A-Z)
+ ###### · Digits (0-9)
+ ###### · Special characters
+##### · 🎯 ASCII Validation - Uses ASCII values for accurate checking
+##### · 📝 Detailed Report - Provides comprehensive character information
