@@ -1,6 +1,6 @@
 # 🅒 C Code Snippets 
 
-A collection of C programs for calculating areas of 2D shapes, volumes of 3D shapes, and a special program to capture your passion (like coder, or something else)! and convert temperature into celsius, so many things. Very Interesting!
+A collection of C programs for calculating areas of 2D shapes, volumes of 3D shapes, and a special program to capture your passion (like coder, or something else)! and convert temperature into celsius, and so many things. Very Interesting!
 
 ## 📖 Project Overview
 
