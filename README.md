@@ -84,4 +84,4 @@ This repository contains C programs designed to help students and developers und
 ##### · 🎯 Maximum Identification - Accurately finds the largest number
 ##### · ⚖️ Equal Number Handling - Handles cases where numbers are equal
 ##### · 🔢 All Number Types - Works with integers, decimals, and negative numbers
-##### · 📝 Clear Result Display - Shows all numbers and highlights the greatest
+##### · 📝 Clear Result Display - Shows all numbers and highlights the greatest.
