@@ -7,7 +7,7 @@ int main() {
     printf("║      CIRCLE & CYLINDER CALCULATOR   ║\n");
     printf("╚══════════════════════════════════════╝\n\n");
     
-    printf("Enter the radius (i: ");
+    printf("Enter the radius : ");
     scanf("%d", &radius);
     
     printf("────────────────────────────────────────\n");
