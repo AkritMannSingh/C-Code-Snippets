@@ -17,7 +17,7 @@ int main() {
     printf("Circumference: %.2f units\n", 2 * 3.14 * radius);
     printf("────────────────────────────────────────\n\n");
     
-    printf("Enter the height of cylinder (in un: ");
+    printf("Enter the height of cylinder: ");
     scanf("%d", &height);
     
     printf("────────────────────────────────────────\n");
