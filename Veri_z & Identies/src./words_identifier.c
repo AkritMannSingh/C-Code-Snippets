@@ -134,7 +134,7 @@ int main() {
     printf("║         THANK YOU FOR LEARNING!           ║\n");
     printf("╠════════════════════════════════════════════╣\n");
     printf("║ Vocabulary is the key to better          ║\n");
-    printf("║ communicatio and understanding!         ║\n");
+    printf("║ communication and understandig!         ║\n");
     printf("╚════════════════════════════════════════════╝\n");
 
     return 0;
