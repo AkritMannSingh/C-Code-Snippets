@@ -150,7 +150,7 @@ int main() {
     printf("╚════════════════════════════════════════════╝\n");
 
     printf("\n══════════════════════════════════════════════\n");
-    printf("ASCII REFERENCE (Common values):\n");
+    printf("ASCII REFERECE (Common values):\n");
     printf("  Space: 32      '0'-'9': 48-57\n");
     printf("  'A'-'Z': 65-90 'a'-'z': 97-122\n");
     printf("══════════════════════════════════════════════\n");
