@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-        printf("👋 Hey Welcome to Income Tax Calculator .\n");
+        printf("👋 Hey! Welcome to Income Tax Calculator .\n");
 
         printf("************************************************************\n");
 
