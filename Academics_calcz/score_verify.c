@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
   printf("Welcome to the program to calculate Score Declaration...\n");
-printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 
 int my_score;
 int passing_score = 60;
