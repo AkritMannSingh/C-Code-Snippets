@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 int main(){
   printf("Welcome to the program to calculate Score Declaration...\n");
 printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
